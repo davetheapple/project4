@@ -36,6 +36,7 @@
         Kerri Shotts 
     </author>
     <content src="index.html" />
+    <allow-navigation href="*" />
     <access origin="*" />
     <preference name="fullscreen" value="false" />
     <preference name="webviewbounce" value="false" />
